@@ -176,3 +176,4 @@ TIMESERIES 1 minute
 - [AWS EKS Documentation](https://docs.aws.amazon.com/eks/latest/userguide/what-is-eks.html)
 - [Chrony Documentation](https://chrony.tuxfamily.org/documentation.html)
 - [New Relic Flex Integration Guide](https://docs.newrelic.com/docs/infrastructure/host-integrations/host-integrations-list/flex-integration-tool-build-your-own-integration)
+- [Flex step-by-step tutorial]( https://github.com/newrelic/nri-flex/blob/master/docs/basic-tutorial.md)
